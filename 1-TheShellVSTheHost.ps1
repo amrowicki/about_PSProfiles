@@ -10,5 +10,7 @@ Get-Host
 $Host
 $PSVersionTable
 
+Get-PSHostProcessInfo
+
 Write-Host
 [System.Console]::WriteLine()
